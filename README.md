@@ -101,25 +101,6 @@ Build for production
 npm run build
 ```
 
-## 📸 Screenshots
-
-Add screenshots of the following pages:
-
-- Home Page
-- URL Input Interface
-- Generated QR Code
-- Download Functionality
-
-Example:
-
-```
-README Images/
-│
-├── home.png
-├── qr-generated.png
-└── download.png
-```
-
 ## 💡 Use Cases
 
 - Share websites instantly
