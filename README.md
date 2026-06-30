@@ -6,7 +6,7 @@ The **Web-Based URL to QR Code Generation Platform** is a modern and responsive 
 
 ## 🚀 Live Demo
 
-🔗 
+🔗 https://web-based-url-to-qr-code-generation.vercel.app/
 
 ## 📌 Overview
 
